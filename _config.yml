@@ -2,7 +2,7 @@
 title: Fairhaven Services
 tag_text: FhS
 description: Home-based pet care and cleaning
-baseurl: "/fairhavenservices" # the subpath of your site, e.g. /blog
+baseurl: "/Fairhaven-Services" # the subpath of your site, e.g. /blog
 #url: "https://aduffy70.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
