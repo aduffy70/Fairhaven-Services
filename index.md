@@ -2,45 +2,26 @@
 layout: default
 ---
 
-![Banner](assets/biscuit.png)
+![Banner](assets/FairhavenServicesLogo.png)
 
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the simplest and still-good-looking Jekyll theme that you can find. 
+**Fairhaven Services** is a Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
 
-## Usage
+## A thing we do
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or simply use it with [GitHub Pages](https://pages.github.com).
-For local usage, simply download [Jekyll](http://jekyllrb.com/) and follow the installation guide for more information. You can download the latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
+This is info about that thing we do. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
 
-If you prefer to use GitHub Pages, you do not need to download it, upload files to a new repository, etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
+## Another thing we do
 
-### Files
+This is text about that other thing. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
 
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
+### This is a subheading
 
-## Example tag usage
+* These are
+* bulleted lists of
+* things to show 
+* how that could look
 
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
+## Contact
 
-> blockquotes
-
-~~~python
-import os,time
-print ("Biscuit")
-~~~
-
-## Licence and Author Information
-
-Biscuit is derived from the currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://sblisesivdin.github.io).
-
-Biscuit and the previous code, where Biscuit is derived, are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
+email@email.com | (555) 867-5309 | LinkedIn: OrWhatever
