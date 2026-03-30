@@ -11,6 +11,10 @@ plugins:
 # Build settings
 markdown: kramdown
 permalink: /Fairhaven-Services/
-exclude: ["README.md"]
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE-biscuit_theme
 sass:
   style: compressed
